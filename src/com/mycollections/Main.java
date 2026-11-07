@@ -4,8 +4,6 @@
 
 package com.mycollections;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Vector;
 
 /**
